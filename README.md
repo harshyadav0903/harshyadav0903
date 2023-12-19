@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Kunal's LinkedIn" width="40" height="40" />](https://linkedin.com/in/HarshYadav30) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kunal's Instagram" width="40" height="40" />](https://instagram.com/harshhvardhhan)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Harsh's LinkedIn" width="40" height="40" />](https://linkedin.com/in/HarshYadav30) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harsh's Instagram" width="40" height="40" />](https://instagram.com/harshhvardhhan)
 
 ### Languages and Tools:
 
