@@ -3,7 +3,6 @@
 
 ### I am a 2022 graduate with a Bachelor of Engineering in Mechanical Engineering degree. I am a currently pursuing Post-Graduation Diploma in Advanced Computing from CDAC. I am passionate about  new Technologies and excited to explore them. 
 
-
 <!-- 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Java SE, Jakarta EE, C++, OS, MS.NET, Web Development (HTML, CSS, Bootstrap, Vanilla JavaScript, React JS).
 <!--- 👯 I’m looking to collaborate on -->
